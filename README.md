@@ -14,6 +14,16 @@ Atliq technologies (Imaginary company) is a hardware brick & motor, e-commerce c
 * This Dashboard enables the stakeholders to understand about sales of various departments of the company and helped them in data-driven decision making. This project could increase the revenue by 10% cut down the date related expenses by 20%.
 ### Home Page for Dashboard:
 ![](https://github.com/SivaSai0404/SSK_Portfolio.github.io/blob/main/Screenshot%20(639).png)
+### Finance View:
+![]( SSK_Portfolio.github.io/Screenshot (640).png at main · SivaSai0404/SSK_Portfolio.github.io)
+### Sales View:
+![]( SSK_Portfolio.github.io/Screenshot (641).png at main · SivaSai0404/SSK_Portfolio.github.io)
+### Marketing View:
+![]( SSK_Portfolio.github.io/Screenshot (642).png at main · SivaSai0404/SSK_Portfolio.github.io)
+### Supply chain view:
+![]( SSK_Portfolio.github.io/Screenshot (643).png at main · SivaSai0404/SSK_Portfolio.github.io)
+
+
 ## Key Insights:
 * Net sales were decreased in the month of March 2020.
 * Gross Margin % is increasing over the years.

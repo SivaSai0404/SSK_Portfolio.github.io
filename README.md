@@ -37,7 +37,9 @@ Atliq technologies (Imaginary company) is a hardware brick & motor, e-commerce c
 * Power BI
 ## Solution:
 * A Power BI dashboard was built using the data obtained from Excel to track the employee. Data transformation was made using power Query and DAX. The dashboard includes working hours, attendance, performance, and leaves. 
-* By using the dashboard, the HR process was streamlined, and efficiency was improved. The insights provided from dashboard can save up to 3-4 working hours of the HR. ![](https://github.com/SivaSai0404/SSK_Portfolio.github.io/blob/main/Screenshot%20(645).png) 
+* By using the dashboard, the HR process was streamlined, and efficiency was improved. The insights provided from dashboard can save up to 3-4 working hours of the HR.
+### Dashboard:
+![](https://github.com/SivaSai0404/SSK_Portfolio.github.io/blob/main/Screenshot%20(645).png) 
 ## Key Insights:
 * Presence % was declined from April to June.
 * Work From Home % was increased from the months April to June.
@@ -50,6 +52,7 @@ Based on the above insights, HR could decisions according to the needs and there
 * Microsoft-Excel
 ## Solution:
 * A dashboard was built using data obtained from excel. The data transformations were done using excel conditional formats and charts were generated using pivot tables. Overall, this dashboard aimed at increasing the revenue by 8 % in coming years.
+ ### Dashboard:
 ![](https://github.com/SivaSai0404/SSK_Portfolio.github.io/blob/main/Screenshot%20(647).png) 
 ## Key Insights:
 * From the Dashboard, middle-aged people purchased the highest bikes in all regions.

@@ -15,13 +15,13 @@ Atliq technologies (Imaginary company) is a hardware brick & motor, e-commerce c
 ### Home Page for Dashboard:
 ![](https://github.com/SivaSai0404/SSK_Portfolio.github.io/blob/main/Screenshot%20(639).png)
 ### Finance View:
-![]( SSK_Portfolio.github.io/Screenshot (640).png at main · SivaSai0404/SSK_Portfolio.github.io)
+![]( https://github.com/SivaSai0404/SSK_Portfolio.github.io/blob/main/Screenshot%20(640).png)
 ### Sales View:
-![]( SSK_Portfolio.github.io/Screenshot (641).png at main · SivaSai0404/SSK_Portfolio.github.io)
+![](https://github.com/SivaSai0404/SSK_Portfolio.github.io/blob/main/Screenshot%20(641).png)
 ### Marketing View:
-![]( SSK_Portfolio.github.io/Screenshot (642).png at main · SivaSai0404/SSK_Portfolio.github.io)
+![]( https://github.com/SivaSai0404/SSK_Portfolio.github.io/blob/main/Screenshot%20(642).png)
 ### Supply chain view:
-![]( SSK_Portfolio.github.io/Screenshot (643).png at main · SivaSai0404/SSK_Portfolio.github.io)
+![](https://github.com/SivaSai0404/SSK_Portfolio.github.io/blob/main/Screenshot%20(643).png)
 
 
 ## Key Insights:

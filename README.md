@@ -30,5 +30,17 @@ Atliq technologies (Imaginary company) is a hardware brick & motor, e-commerce c
 ## Key Insights:
 * Presence % was declined from April to June.
 * Work From Home % was increased from the months April to June.
-*Sick Leave % was increased during the months April, May, June.
+* Sick Leave % was increased during the months April, May, June.
 Based on the above insights, HR could decisions according to the needs and therefore the efficiency would be improved and save the working hours of HR.
+
+# Project 3: Problem Statement (https://sivasai0404.github.io/Excel-Project/) 
+* A Motor Bike company was facing an issue generating insights from the data obtain from its various regions, educational level, age, marital status, distance commute.
+## Tools Used:
+* Microsoft-Excel
+## Solution:
+* A dashboard was built using data obtained from excel. The data transformations were done using excel conditional formats and charts were generated using pivot tables. Overall, this dashboard aimed at increasing the revenue by 8 % in coming years.
+## Key Insights:
+* From the Dashboard, middle-aged people purchased the highest bikes in all regions.
+* Adolescence and old age people purchased low number of bikes.
+* An informed decisions here can hike bike sales in older and adolescence age groups as well. 
+
